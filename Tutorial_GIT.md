@@ -1,4 +1,5 @@
-# ATIVIDADE PR[ATICA POO-23/04
+
+# ATIVIDADE PRÁTICA POO-23/04
 ## Tutorial GIT 
 
 ### Criação de um novo repositório denominado POO
