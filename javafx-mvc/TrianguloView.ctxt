@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TrianguloView
+comment0.text=\r\n\ Interface\ Gr\u00E1fica\ (GUI)\ da\ Calculadora\ da\ \u00E1rea\ do\ tri\u00E2ngulo\r\n\ \r\n\ @author\ Raingredi\r\n\ @version\ 0.01\r\n
+comment1.params=
+comment1.target=TrianguloView()
+comment2.params=controller
+comment2.target=void\ setController(TrianguloController)
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+numComments=4

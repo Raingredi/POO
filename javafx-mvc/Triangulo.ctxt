@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment0.text=\r\n\ Interface\ Gr\u00E1fica\ (GUI)\ da\ Calculadora\ da\ \u00E1rea\ do\ tri\u00E2ngulo\r\n\ \r\n\ @author\ Raingredi\r\n\ @version\ 0.01\r\n
+comment1.params=
+comment1.target=Triangulo()
+comment2.params=altura\ base
+comment2.target=Triangulo(double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Calculadora\ da\ \u00E1rea\ do\ tri\u00E2ngulo\r\n
+comment3.params=
+comment3.target=double\ calcular()
+comment3.text=\r\n\ Calcula\ a\ \u00E1rea\ do\ tri\u00E2ngulo\r\n\ \r\n\ @return\ \ \ \ \ o\ valor\ da\ \u00E1rea\ do\ tri\u00E2ngulo,\ dado\ por\:\ (base\ x\ altura)/2\r\n
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+comment4.text=\r\n\ Interpreta\ a\ \u00E1rea\ do\ tri\u00E2ngulo\r\n\ \r\n\ @return\ \ \ \ \ interpreta\ a\ \u00E1rea\ do\ tri\u00E2ngulo\r\n\ @see\ <a\ href\="https\://www.todamateria.com.br/area-do-triangulo/">\u00C1rea\ do\ tri\u00E2ngulo-Toda\ mat\u00E9ria</a>\r\n
+numComments=5
