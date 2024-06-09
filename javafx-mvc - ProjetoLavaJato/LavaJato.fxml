@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="323.0" prefWidth="559.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LavaJatoController">
+   <children>
+      <Label layoutX="212.0" layoutY="38.0" text="Sistema Lava Javo">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="67.0" layoutY="78.0" text="Cliente" />
+      <TextField id="textFieldCliente" fx:id="textFieldCliente" layoutX="67.0" layoutY="95.0" promptText="Nome do Cliente" />
+      <TextField id="textFieldPeso" fx:id="textFieldModelo" layoutX="280.0" layoutY="95.0" promptText="Modelo do veículo" />
+      <Label layoutX="281.0" layoutY="78.0" text="Modelo" />
+      <Button id="buttonCalcular" layoutX="67.0" layoutY="238.0" mnemonicParsing="false" onAction="#botaoCalcularClicado" text="Calcular" textAlignment="CENTER" />
+      <Button id="buttonLimpar" layoutX="153.0" layoutY="238.0" mnemonicParsing="false" onAction="#botaoLimparClicado" text="Limpar" />
+      <Label layoutX="65.0" layoutY="283.0" text="Orçamento:" />
+      <Label id="labelResultado" fx:id="labelOrcamento" layoutX="157.0" layoutY="283.0" text="PREENCHA OS DADOS ACIMA" />
+      <Label layoutX="67.0" layoutY="132.0" text="Tipo de Lavagem" />
+      <TextField id="textFieldPeso" fx:id="textFieldObs" layoutX="263.0" layoutY="185.0" prefHeight="25.0" prefWidth="229.0" promptText="Observações" />
+      <ChoiceBox layoutX="66.0" layoutY="162.0" prefWidth="150.0" />
+   </children>
+</Pane>
