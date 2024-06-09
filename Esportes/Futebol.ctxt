@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Futebol
+comment0.text=\r\n\ Classe\ para\ descrever\ o\ esporte\ Futebol\r\n\ @author\ Raingredi\ \r\n\ @version\ 1.0\r\n
+comment1.params=objetivo\ minJogadores\ inicioJogo\ tipoCampo
+comment1.target=Futebol(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ descreverEsporte()
+comment3.params=
+comment3.target=void\ marcarGol()
+numComments=4
