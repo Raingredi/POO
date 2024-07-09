@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Retangulo
+comment0.text=\r\n\ Classe\ Ret\u00E2ngulo\ que\ calcula\ a\ \u00E1rea\ e\ o\ per\u00EDmetro\ recebendo\ a\ base\ e\ altura\ e\ seguindo\ a\ interfarse\ FormaGeom\u00E9trica\r\n\ \r\n\ @author\ Raingredi\ \r\n\ @version\ 1.0\r\n
+comment1.params=base\ altura
+comment1.target=Retangulo(double,\ double)
+comment2.params=
+comment2.target=double\ getBase()
+comment3.params=
+comment3.target=double\ getAltura()
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=double\ getPerimetro()
+numComments=7

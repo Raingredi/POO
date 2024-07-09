@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Circulo
+comment0.text=\r\n\ Classe\ C\u00EDrculo\ que\ calcula\ a\ \u00E1rea\ e\ o\ per\u00EDmetro\ recebendo\ o\ raio\ e\ seguindo\ a\ interfarse\ FormaGeom\u00E9trica\r\n\ \r\n\ @author\ Raingredi\ \r\n\ @version\ 1.0\r\n
+comment1.params=raio
+comment1.target=Circulo(double)
+comment2.params=
+comment2.target=double\ getRaio()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=double\ getPerimetro()
+numComments=6

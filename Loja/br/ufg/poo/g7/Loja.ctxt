@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Loja
+comment0.text=\r\n\ Classe\ Loja\ que\ capta\ os\ dados\ necess\u00E1rios\ para\ o\ cadastro\ do\ estabelecimento\ no\ Marketplce.\r\n\ \r\n\ @author\ Raingredi\ Mendes\ \r\n\ @version\ 1.2\r\n
+comment1.params=nome\ cnpj\ telefone\ endereco
+comment1.target=Loja(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getCnpj()
+comment4.params=
+comment4.target=java.lang.String\ getTelefone()
+comment5.params=
+comment5.target=java.lang.String\ getEndereco()
+comment6.params=
+comment6.target=java.lang.String[]\ getServicos()
+comment7.params=nome
+comment7.target=void\ setNome(java.lang.String)
+comment8.params=servicos
+comment8.target=void\ setServicos(java.lang.String[])
+numComments=9

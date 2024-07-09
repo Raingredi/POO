@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Quadrado
+comment0.text=\r\n\ Classe\ Quadrado\ que\ calcula\ a\ \u00E1rea\ recebendo\ o\ lado,\ como\ o\ quadrado\ \u00E9\ um\ tipo\ especial\ de\ ret\u00E2ngulo\r\n\ esta\ \u00E9\ uma\ subclasse\ da\ classe\ ret\u00E2ngulo\r\n\ \r\n\ @author\ Raingredi\ \r\n\ @version\ 1.0\r\n
+comment1.params=lado
+comment1.target=Quadrado(double)
+comment2.params=
+comment2.target=double\ getLado()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FormaGeometrica
+comment0.text=\r\n\ Interface\ FormaGeometrica.\r\n\ \r\n\ @author\ Raingredi\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=
+comment2.target=double\ getArea()
+comment3.params=
+comment3.target=double\ getPerimetro()
+numComments=4
