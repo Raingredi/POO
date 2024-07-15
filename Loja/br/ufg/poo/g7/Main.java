@@ -32,9 +32,6 @@ public class Main {
         */
         Loja loja = new Loja(nome, cnpj, telefone, endereco);
 
-        /**
-         * 
-        */
         System.out.print("Quantos serviços a loja oferece? ");
         int quantidadeServicos = scanner.nextInt();
         scanner.nextLine(); 
@@ -45,8 +42,6 @@ public class Main {
             servicos[i] = scanner.nextLine();
         }
         loja.setServicos(servicos);
-
-        // Exibir as informações da loja
         System.out.println("\nInformações da Loja");
         System.out.println("Nome: " + loja.getNome());
         System.out.println("CNPJ: " + loja.getCnpj());
