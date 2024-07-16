@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EstabelecimentoRepository
+comment1.params=database
+comment1.target=EstabelecimentoRepository(Database)
+comment10.params=dao
+comment10.target=void\ setDao(com.j256.ormlite.dao.Dao)
+comment11.params=
+comment11.target=java.util.List\ getLoadedEstabelecimentos()
+comment12.params=loadedEstabelecimentos
+comment12.target=void\ setLoadedEstabelecimentos(java.util.List)
+comment2.params=database
+comment2.target=void\ setDatabase(Database)
+comment3.params=estabelecimento
+comment3.target=Estabelecimento\ create(Estabelecimento)
+comment4.params=estabelecimento
+comment4.target=void\ update(Estabelecimento)
+comment5.params=estabelecimento
+comment5.target=void\ delete(Estabelecimento)
+comment6.params=id
+comment6.target=Estabelecimento\ loadFromId(int)
+comment7.params=
+comment7.target=java.util.List\ loadAll()
+comment8.params=
+comment8.target=Database\ getDatabase()
+comment9.params=
+comment9.target=com.j256.ormlite.dao.Dao\ getDao()
+numComments=13

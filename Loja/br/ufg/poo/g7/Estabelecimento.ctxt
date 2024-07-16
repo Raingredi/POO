@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Estabelecimento
+comment1.params=
+comment1.target=java.lang.String\ getestabelecimento()
+comment2.params=estabelecimento
+comment2.target=void\ setestabelecimento(java.lang.String)
+comment3.params=
+comment3.target=int\ getcnpj()
+comment4.params=cnpj
+comment4.target=void\ setcnpj(int)
+comment5.params=
+comment5.target=int\ gettelefone()
+comment6.params=telefone
+comment6.target=void\ settelefone(int)
+comment7.params=
+comment7.target=java.lang.String\ getendereco()
+comment8.params=endereco
+comment8.target=void\ setendereco(java.lang.String)
+numComments=9
